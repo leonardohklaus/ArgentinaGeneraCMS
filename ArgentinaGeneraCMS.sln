@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArgentinaGeneraCMS", "ArgentinaGeneraCMS\ArgentinaGeneraCMS.csproj", "{24C3414F-4AF3-4647-91C4-A6B4843FB71B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24C3414F-4AF3-4647-91C4-A6B4843FB71B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24C3414F-4AF3-4647-91C4-A6B4843FB71B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24C3414F-4AF3-4647-91C4-A6B4843FB71B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24C3414F-4AF3-4647-91C4-A6B4843FB71B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03024199-1C8D-4172-880E-5D218479B51A}
+	EndGlobalSection
+EndGlobal

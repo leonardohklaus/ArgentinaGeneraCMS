@@ -1,0 +1,16 @@
+C:\Migrate\GitHub\ArgentinaGeneraCMS\ArgentinaGeneraCMS\ArgentinaGeneraCMS\bin\Release\net8.0-windows\ArgentinaGeneraCMS.exe
+C:\Migrate\GitHub\ArgentinaGeneraCMS\ArgentinaGeneraCMS\ArgentinaGeneraCMS\bin\Release\net8.0-windows\ArgentinaGeneraCMS.deps.json
+C:\Migrate\GitHub\ArgentinaGeneraCMS\ArgentinaGeneraCMS\ArgentinaGeneraCMS\bin\Release\net8.0-windows\ArgentinaGeneraCMS.runtimeconfig.json
+C:\Migrate\GitHub\ArgentinaGeneraCMS\ArgentinaGeneraCMS\ArgentinaGeneraCMS\bin\Release\net8.0-windows\ArgentinaGeneraCMS.dll
+C:\Migrate\GitHub\ArgentinaGeneraCMS\ArgentinaGeneraCMS\ArgentinaGeneraCMS\bin\Release\net8.0-windows\ArgentinaGeneraCMS.pdb
+C:\Migrate\GitHub\ArgentinaGeneraCMS\ArgentinaGeneraCMS\ArgentinaGeneraCMS\obj\Release\net8.0-windows\ArgentinaGeneraCMS.Principal.resources
+C:\Migrate\GitHub\ArgentinaGeneraCMS\ArgentinaGeneraCMS\ArgentinaGeneraCMS\obj\Release\net8.0-windows\ArgentinaGeneraCMS.csproj.GenerateResource.cache
+C:\Migrate\GitHub\ArgentinaGeneraCMS\ArgentinaGeneraCMS\ArgentinaGeneraCMS\obj\Release\net8.0-windows\ArgentinaGeneraCMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Migrate\GitHub\ArgentinaGeneraCMS\ArgentinaGeneraCMS\ArgentinaGeneraCMS\obj\Release\net8.0-windows\ArgentinaGeneraCMS.AssemblyInfoInputs.cache
+C:\Migrate\GitHub\ArgentinaGeneraCMS\ArgentinaGeneraCMS\ArgentinaGeneraCMS\obj\Release\net8.0-windows\ArgentinaGeneraCMS.AssemblyInfo.cs
+C:\Migrate\GitHub\ArgentinaGeneraCMS\ArgentinaGeneraCMS\ArgentinaGeneraCMS\obj\Release\net8.0-windows\ArgentinaGeneraCMS.csproj.CoreCompileInputs.cache
+C:\Migrate\GitHub\ArgentinaGeneraCMS\ArgentinaGeneraCMS\ArgentinaGeneraCMS\obj\Release\net8.0-windows\ArgentinaGeneraCMS.dll
+C:\Migrate\GitHub\ArgentinaGeneraCMS\ArgentinaGeneraCMS\ArgentinaGeneraCMS\obj\Release\net8.0-windows\refint\ArgentinaGeneraCMS.dll
+C:\Migrate\GitHub\ArgentinaGeneraCMS\ArgentinaGeneraCMS\ArgentinaGeneraCMS\obj\Release\net8.0-windows\ArgentinaGeneraCMS.pdb
+C:\Migrate\GitHub\ArgentinaGeneraCMS\ArgentinaGeneraCMS\ArgentinaGeneraCMS\obj\Release\net8.0-windows\ArgentinaGeneraCMS.genruntimeconfig.cache
+C:\Migrate\GitHub\ArgentinaGeneraCMS\ArgentinaGeneraCMS\ArgentinaGeneraCMS\obj\Release\net8.0-windows\ref\ArgentinaGeneraCMS.dll
