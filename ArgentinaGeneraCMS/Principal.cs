@@ -85,7 +85,7 @@ namespace ArgentinaGeneraCMS
             xmlNodoGenerationTime.InnerText = DateTime.Now.AddMinutes(-10).ToString("s");
             xmlNodoExpirationTime.InnerText = DateTime.Now.AddMinutes(+10).ToString("s");
             xmlNodoUniqueId.InnerText = Convert.ToString(uniqueId);
-            xmlNodoService.InnerText = "wsmtxca"; //"wsct" //"wsmtxca"
+            xmlNodoService.InnerText = servicioSolicitado; //"wsct" //"wsmtxca" //wsfexv1
 
 
             byte[] msgBytes = EncodedMsg.GetBytes(XmlLoginTicketRequest.OuterXml);
@@ -111,6 +111,7 @@ namespace ArgentinaGeneraCMS
         private string GetServicio()
         {
             string servicioSeleccionado = "";
+            
             switch (servicio.SelectedIndex)
             {
                 case 0:
